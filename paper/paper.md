@@ -72,7 +72,3 @@ As part of the DBCLS BioHackathon 2026, we here reported our efforts on how best
 We thank the organizers of the DBCLS BioHackathon 2026 for providing the venue and support for this work. We also acknowledge the developers of GA4GH VRS for providing the foundational model that made this work possible and RDFPortal data managers and developers to share needs and data transformation pipelines. We would like to thank the contributions of Orion Buske, Dawn Chen, Chang Sun, Shuichi Kawashima, Yasunori Yamamoto, Akira R. Kinjo, Priscilla Joanne, Tazro Ohta, Núria Fàbrega and Claude Nanjo who shared their needs, ideas, tools and domain knowledge for all the informative and inspirational discussions maintained along the week.
 
 # References
-
-```{=latex}
-\AtEndDocument{%
-```
