@@ -45,6 +45,7 @@ Objective: We aim to connect genomic variant information from variant datasets i
 # Method
 ## Use of Standards
  We adhered to established standards such as GA4GH VRS and Cat-VRS, RDF/OWL, and ShEx to ensure interoperability and semantic consistency.
+
 ## Use Case-Driven Approach
  Our methodology was guided by the patient-to-clinical-trial matching use case from the tool application perspective. This approach ensures that our data is ready for downstream application tools.
 
