@@ -1,6 +1,6 @@
 ---
-title: 'Variant representation in RDF for precision medicine'
-title_short: 'Variants for precision medicine'
+title: 'DBCLS BioHackathon 2026 report: Variant representation in RDF for precision medicine'
+title_short: 'BioHackJP26: Variants for precision medicine'
 tags:
   - Genomic variants
   - RDF
